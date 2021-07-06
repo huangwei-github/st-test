@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@angular/animations": "~11.2.14",
+    "@angular/compiler": "~11.2.14",
+    "@angular/common": "~11.2.14",
+    "@angular/core": "~11.2.14",
+    "@angular/forms": "~11.2.14",
+    "@angular/platform-browser": "~11.2.14",
+    "@angular/platform-browser-dynamic": "~11.2.14",
+    "@angular/router": "~11.2.14",
+    "@ant-design/icons-angular": "*",
+    "core-js": "3.8.3",
+    "rxjs": "~6.6.0",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.11.3",
+    "date-fns": "*",
+    "@angular/cdk": "^11.x",
+    "ng-zorro-antd": "^11.4.1",
+    "@delon/theme": "~11.10.3",
+    "@delon/abc": "~11.10.3",
+    "@delon/chart": "~11.10.3",
+    "@delon/acl": "~11.10.3",
+    "@delon/auth": "~11.10.3",
+    "@delon/cache": "~11.10.3",
+    "@delon/mock": "~11.10.3",
+    "@delon/form": "~11.10.3",
+    "@delon/util": "~11.10.3",
+    "ajv": "^8.1.0",
+    "ajv-formats": "^2.0.2"
+  }
+}
